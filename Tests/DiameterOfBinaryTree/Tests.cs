@@ -16,7 +16,7 @@ namespace Tests.DiameterOfBinaryTree
         {
             var solution = new Solution();
 
-            var treeRoot = new Solution.TreeNode(1);
+            var treeRoot = new Problems.DiameterOfBinaryTree.Solution.TreeNode(1);
 
             var result = solution.DiameterOfBinaryTree(treeRoot);
 
