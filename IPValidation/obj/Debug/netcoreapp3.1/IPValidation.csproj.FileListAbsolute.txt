@@ -1,9 +1,0 @@
-C:\code\LeelCodeProblems\IPValidation\bin\Debug\netcoreapp3.1\IPValidation.deps.json
-C:\code\LeelCodeProblems\IPValidation\bin\Debug\netcoreapp3.1\IPValidation.dll
-C:\code\LeelCodeProblems\IPValidation\bin\Debug\netcoreapp3.1\IPValidation.pdb
-C:\code\LeelCodeProblems\IPValidation\obj\Debug\netcoreapp3.1\IPValidation.csprojAssemblyReference.cache
-C:\code\LeelCodeProblems\IPValidation\obj\Debug\netcoreapp3.1\IPValidation.AssemblyInfoInputs.cache
-C:\code\LeelCodeProblems\IPValidation\obj\Debug\netcoreapp3.1\IPValidation.AssemblyInfo.cs
-C:\code\LeelCodeProblems\IPValidation\obj\Debug\netcoreapp3.1\IPValidation.csproj.CoreCompileInputs.cache
-C:\code\LeelCodeProblems\IPValidation\obj\Debug\netcoreapp3.1\IPValidation.dll
-C:\code\LeelCodeProblems\IPValidation\obj\Debug\netcoreapp3.1\IPValidation.pdb
