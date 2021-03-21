@@ -33,7 +33,7 @@ namespace Problems.DataStructures.Tree.BinaryTreeInOrderTraversal
     {
         private static List<int> _resultList;
 
-        public IList<int> InOrderTraversal(TreeNode root, bool useRecursive = true)
+        public IList<int> InOrderTraversal(TreeNode root, bool useRecursive = false)
         {
             _resultList = new List<int>();
             if (useRecursive)
@@ -62,7 +62,7 @@ namespace Problems.DataStructures.Tree.BinaryTreeInOrderTraversal
             if (root == null) return;
 
             var stack = new Stack<TreeNode>();
-            var leftHasBeenTraversed = new List<TreeNode>();
+            var leftHasBeenTraversed = new HashSet<TreeNode>();
 
             stack.Push(root);
             while (stack.Count > 0)
